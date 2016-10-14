@@ -5,9 +5,9 @@ import {
   VictoryScatter,
   VictoryGroup,
   VictoryVoronoiTooltip
-} from "victory-chart";
+} from "victory-chart-native";
 
-import { VictoryTooltip } from "victory-core";
+import { VictoryTooltip } from "victory-core-native";
 
 export default (props) => ([
   <VictoryGroup {...props}>

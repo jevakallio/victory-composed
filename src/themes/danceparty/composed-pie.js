@@ -1,6 +1,6 @@
 import React from "react";
 
-import { VictoryPie } from "victory-pie";
+import { VictoryPie } from "victory-pie-native";
 
 export default (props) => ([
   <VictoryPie

@@ -16,7 +16,7 @@ export {
 
 export {
   default as VictoryPieChart
-} from "./components/victory-composed/victory-pie-chart";
+} from "./components/victory-composed/victory-pie-native-chart";
 
 export {
   default as VictoryScatterChart

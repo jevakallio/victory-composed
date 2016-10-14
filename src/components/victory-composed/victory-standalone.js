@@ -3,12 +3,12 @@ import React, { PropTypes } from "react";
 import {
   VictoryGroup,
   VictoryStack
-} from "victory-chart";
+} from "victory-chart-native";
 
 import {
   VictoryLabel,
   VictoryContainer
-} from "victory-core";
+} from "victory-core-native";
 
 import Themes from "../../themes";
 
